@@ -146,7 +146,7 @@ print(get_supported_languages())
 
 ### 📜 License
 
-MIT License (or update according to your project).
+MIT License.
 
 
 ### Citation
