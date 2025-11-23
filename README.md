@@ -148,3 +148,18 @@ print(get_supported_languages())
 
 MIT License (or update according to your project).
 
+
+### Citation
+
+```
+@misc{liu2025evaluating,
+      title={Evaluating Robustness of Large Language Models Against Multilingual Typographical Errors}, 
+      author={Yihong Liu and Raoyuan Zhao and Lena Altinger and Hinrich Schütze and Michael A. Hedderich},
+      year={2025},
+      eprint={2510.09536},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.09536}, 
+}
+```
+
